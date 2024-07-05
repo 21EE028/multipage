@@ -1,0 +1,24 @@
+*{
+    background:rgb(196, 172, 13);
+}
+h1{
+    color:brown;
+}
+p1{
+    font-weight:bolder;
+    background:-webkit-gradient(rgb(204, 51, 64));
+    
+
+}
+p2{
+    font-weight:bolder;
+}
+img{
+    border-top-left-radius: 20px;
+    border-radius:50%;
+    margin:50px;
+    
+}
+h2{
+    color:brown;
+}
